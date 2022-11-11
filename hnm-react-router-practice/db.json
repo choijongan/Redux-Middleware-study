@@ -2,7 +2,7 @@
     "products":[
         {
             "id":0,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ec/ef/ecef9d77c56c519e24a76b83331ae2c18f73f50d.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ec/ef/ecef9d77c56c519e24a76b83331ae2c18f73f50d.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
             "title":"벨티드 트윌 코트",
             "price":99900,
             "choice":true,
@@ -12,7 +12,7 @@
         },
         {
             "id":1,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/af/50/af50afa939c28ba24fd263fb573b4ad5f0858b14.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/4b/b2/4bb237689b18cce09617a74b69889442602fd65e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
             "title":"슬림핏 맘 하이웨이스트 앵클 진",
             "price":29900,
             "choice":true,
@@ -22,7 +22,7 @@
         },
         {
             "id":2,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/7a/49/7a4980a16ce6888b33481763ea1f0a05807f50d1.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/f3/7c/f37c40c888dc8afbdbb8040ef5400df1a5f75c55.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
             "title":"와이드 하이웨이스트 진",
             "price":39900,
             "choice":false,
@@ -32,7 +32,7 @@
         },
         {
             "id":3,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/10/34/10341727ce95aae07695e7b13392a1d802ffe1f3.jpg],origin[dam],category[],type[LOOKBOOK],res[y],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/10/34/10341727ce95aae07695e7b13392a1d802ffe1f3.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
             "title":"퍼프 슬리브 드레스",
             "price":39900,
             "choice":false,
@@ -52,7 +52,7 @@
         },
         {
             "id":5,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/95/20/9520af2b69e69ef18fbad1d2673d47b1afe2b107.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/10/8f/108f58cd21b2564cbadd3cab089d234eb132661b.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
             "title":"자카드 셔츠 드레스",
             "price":39900,
             "choice":false,
@@ -112,7 +112,7 @@
         },
         {
             "id":11,
-            "img":"https://lp2.hm.com/hmgoepprod?set=source[/d1/aa/d1aa5d5d4a3d0699689e7f6187514ad70dc958d6.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/57/f2/57f2ce0dadf918c45756a7299092f798d60fcfb0.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
             "title":"플레어 로라이즈 진",
             "price":29900,
             "choice":true,
