@@ -2,6 +2,7 @@
     display: flex;
     justify-content: flex-end;
     margin: 30px;
+    cursor: pointer;
 }
 
 .nav-section{
@@ -34,4 +35,31 @@
   }
   .search-box input:focus {
     outline:none
+  }
+
+  .card{
+    border:none !important;
+    margin-bottom: 10px;
+  }
+  
+  .choice{
+    font-size:11px;
+    color: #63786a;
+    font-weight: bold;
+    height: 20px;
+  }
+  
+  .new-product {
+    font-size: 11px;
+    height: 20px;
+  }
+  
+  .card:hover{
+    transform: scale(1.1);
+    z-index: 1;
+  }
+  
+  .product-img{
+    display: flex;
+    justify-content: flex-end;
   }

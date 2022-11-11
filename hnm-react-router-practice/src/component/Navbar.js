@@ -33,7 +33,7 @@ const Nabvar = () => {
   return (
     <div>
         <div>
-            <div className='login-button'>
+            <div className='login-button' onClick={goToLogin}>
               <FontAwesomeIcon icon={faUser} />
               <div>로그인</div>
             </div>

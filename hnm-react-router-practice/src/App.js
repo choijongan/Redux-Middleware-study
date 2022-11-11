@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Routes, Route } from "react-router-dom";
@@ -6,8 +5,10 @@ import ProductAll from './page/ProductAll';
 import Login from './page/Login';
 import ProductDetail from './page/ProductDetail';
 import Navbar from './component/Navbar';
+import { useState } from 'react';
 
 function App() {
+  const[authenticate, setAuthenticate] = useState(false) //true면 로그인, false면 로그인 안됨.
   return (
     <div>
       <Navbar />
