@@ -6,6 +6,7 @@ import Login from './page/Login';
 import ProductDetail from './page/ProductDetail';
 import Navbar from './component/Navbar';
 import { useEffect, useState } from 'react';
+import PrivateRoute from './route/PrivateRoute';
 
 function App() {
   const[authenticate, setAuthenticate] = useState(false) //true면 로그인, false면 로그인 안됨.
@@ -18,7 +19,7 @@ function App() {
       <Routes>
         <Route path='/' element={<ProductAll/>}/>
         <Route path='/login' element={<Login setAuthenticate={setAuthenticate}/>}/>
-        <Route path='/product/:id' element={<ProductDetail/>}/>
+        <Route path='/product/:id' element={<PrivateRoute authenticate={authenticate}/>}/>
       </Routes>
       
     </div>
