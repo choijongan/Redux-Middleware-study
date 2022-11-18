@@ -38,8 +38,8 @@ const Nabvar = () => {
               <div>로그인</div>
             </div>
         </div>
-        <div className='nav-section'> 
-          <Link to='/'> 
+        <div className='nav-section'>
+          <Link to='/'>
             <img 
             width={100}
             src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FYt80C%2FbtqDeJAYUBo%2FJQbTuukRladq2AUOeqgiEK%2Fimg.jpg' />
